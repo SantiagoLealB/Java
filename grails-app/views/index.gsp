@@ -11,7 +11,7 @@
        
     <div id="content" role="main">
         <section class="row colset-2-its">
-            <h1>Bienvenido</h1>
+            <h1>Bienvenidos</h1>
 
             <div id="controllers" role="navigation" class="text-center">
                 %{-- <h2>Available Controllers:</h2>
