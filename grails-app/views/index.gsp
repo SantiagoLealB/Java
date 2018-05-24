@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Welcome to Grails</title>
+    <title>bienvenidos</title>
 
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico" />
 </head>
@@ -12,6 +12,9 @@
     <div id="content" role="main">
         <section class="row colset-2-its">
             <h1>Bienvenidos</h1>
+
+            
+            <h2>Este es un cambio de la rama master</h2>
 
             <div id="controllers" role="navigation" class="text-center">
                 %{-- <h2>Available Controllers:</h2>
