@@ -13,7 +13,7 @@
     <div id="content" role="main">
         <section class="row colset-2-its">
         	<h3>Vista Mostrar</h3>
-            <h1> Bienvenido</h1>             
+            <h1> Bienvenidos Todos</h1>             
         </section>
     </div>
 

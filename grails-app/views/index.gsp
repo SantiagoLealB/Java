@@ -11,7 +11,8 @@
        
     <div id="content" role="main">
         <section class="row colset-2-its">
-            <h1>Bienvenidos</h1>
+            <h1>Bienvenidos estos son los cambios de la rama 1</h1>
+            <p>este es otro cambio de la Rama 1</p>
 
             
             <h2>Este es un cambio de la rama master</h2>
