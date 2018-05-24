@@ -12,11 +12,8 @@
     <div id="content" role="main">
         <section class="row colset-2-its">
             <h1>Bienvenidos estos son los cambios de la rama 1</h1>
-            <p>este es otro cambio de la Rama 1</p>
+            <p>este es otro cambio de la Rama 4 eliminos parrafos</p>
 
-            
-            <h2>Este es un cambio de la rama master</h2>
-            <h2>Este es un cambio de la rama 2 a index .php</h2>
 
             <div id="controllers" role="navigation" class="text-center">
                 %{-- <h2>Available Controllers:</h2>
