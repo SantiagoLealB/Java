@@ -13,7 +13,12 @@
         <section class="row colset-2-its">
             <h1>Bienvenidos estos son los cambios de la rama 1</h1>
             
-            
+            %{-- 192.90.4.15/home/git/ncsystem.git
+
+            wsconnect.git
+
+            ncsystem.git
+wsconnect.git --}%
             <h2>Este es un cambio de la rama master</h2>
             <h2>Este es un cambio de la rama 2 a index .php</h2>
             <h2>Este es un cambio de la rama 4 a index .php</h2>
