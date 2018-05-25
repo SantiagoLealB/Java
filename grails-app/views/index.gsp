@@ -23,6 +23,7 @@ wsconnect.git --}%
             <h2>Este es un cambio de la rama 2 a index .php</h2>
             <h2>Este es un cambio de la rama 4 a index .php</h2>
 
+             <p>este es otro cambio de la Rama 1 uno</p>
             <div id="controllers" role="navigation" class="text-center">
                 %{-- <h2>Available Controllers:</h2>
                 <ul>
