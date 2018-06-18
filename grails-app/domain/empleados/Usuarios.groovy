@@ -13,7 +13,7 @@ class Usuarios {
 	String correo
 	String puesto
 	Date fechaIngreso
-	
+
 
     static constraints = {
   		dao(bank:false, size:8)
