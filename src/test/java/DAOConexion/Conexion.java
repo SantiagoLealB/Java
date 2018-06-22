@@ -19,8 +19,8 @@ public class Conexion {
     private final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     private final String DB_URL = "jdbc:mysql://localhost/almacen";
     //credenciales de la  bd
-    private final String USER = "root";
-    private final String PASS = "coleccionista45";
+    private final String USER = ""; 
+    private final String PASS = "";
     
     //Abrir la conexion de la bd
     public void conectar() throws SQLException, ClassNotFoundException{
